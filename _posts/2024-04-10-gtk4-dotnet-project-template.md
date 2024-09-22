@@ -9,7 +9,7 @@ tags:
   - .NET 8
   - C#
 ---
-I have been writing some samples using GTK4 using `GirCore` so its time to reduce the manual project setup steps and turn it into a `dotnet new` project template.  
+Saya sudah menulis beberapa contonh menggunakan GTK4 using `GirCore` so its time to reduce the manual project setup steps and turn it into a `dotnet new` project template.  
 
 # Project Template
 Time to follow the excellent [article](https://devblogs.microsoft.com/dotnet/how-to-create-your-own-templates-for-dotnet-new/) by Syed Ibrahim.
